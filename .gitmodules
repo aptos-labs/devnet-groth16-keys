@@ -1,0 +1,3 @@
+[submodule "zkid-circuit"]
+	path = zkid-circuit
+	url = git@github.com:aptos-labs/zkid-circuit
