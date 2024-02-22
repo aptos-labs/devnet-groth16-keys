@@ -5,3 +5,4 @@ main_c_cpp/main_c.cpp filter=lfs diff=lfs merge=lfs -text
 main.r1cs filter=lfs diff=lfs merge=lfs -text
 main.sym filter=lfs diff=lfs merge=lfs -text
 main.wasm filter=lfs diff=lfs merge=lfs -text
+*.ptau filter=lfs diff=lfs merge=lfs -text
